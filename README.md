@@ -1,3 +1,3 @@
 # TD1_DevOps
 
-Bonjour, je m'appelle Théo
+Bonjour, nous nous appelons Théo et Dylan
